@@ -1,0 +1,27 @@
+body {
+    background-color: #d6d4e0;
+    margin: 25px;
+    font-family: system-ui;
+}
+
+h1, h2, h3  {
+    color: #5b9aa0;
+}
+
+p {
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #622569;
+}
+
+div {
+    text-align: left;
+    background-color: #622569;
+}
+ol{
+    color: white;
+}
+
+footer {
+    text-size: 10px
+}
