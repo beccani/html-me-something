@@ -4,6 +4,10 @@ body {
     font-family: system-ui;
 }
 
+#intro {
+    background-color: white;
+}
+
 h1, h2, h3  {
     color: #5b9aa0;
 }
@@ -17,6 +21,10 @@ p {
 div {
     text-align: left;
     background-color: #622569;
+}
+
+ul {
+    color: #622569;
 }
 ol{
     color: white;
